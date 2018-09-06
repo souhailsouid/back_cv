@@ -1,0 +1,33 @@
+{
+  "name": "back_cv",
+  "version": "1.0.0",
+  "description": "back_server_for_cv",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-validator": "^5.3.0",
+    "morgan": "^1.9.0",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.1",
+    "nodemailer": "^4.6.8",
+    "nodemailer-smtp-transport": "^2.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souhailsouid/back_cv.git"
+  },
+  "author": "souhail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souhailsouid/back_cv/issues"
+  },
+  "homepage": "https://github.com/souhailsouid/back_cv#readme"
+}
